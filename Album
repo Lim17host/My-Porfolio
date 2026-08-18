@@ -16,12 +16,20 @@
   <h1>Wedding Collection</h1>
 
   <!-- ILAGAY DITO LAHAT NG MGA LARAWAN MO -->
-  <div class="album-grid">
-    <img src="1.JPG" alt="Wedding Photo 1">
-    <img src="wedding2.jpg" alt="Wedding Photo 2">
-    <img src="wedding3.jpg" alt="Wedding Photo 3">
-    <img src="wedding4.jpg" alt="Wedding Photo 4">
-  </div>
+<div class="album-grid">
+  <img src="1.JPG" alt="Wedding Photo 1">
+  <img src="3.png" alt="Wedding Photo 2">
+  <img src="4.JPG" alt="Wedding Photo 3">
+  <img src="wedding4.jpg" alt="Wedding Photo 4">
+  
+  <!-- MAGDADDAG NG BAGONG MGA IMAGES DITO -->
+  <img src="5.JPG" alt="Wedding Photo 5">
+  <img src="6.JPG" alt="Wedding Photo 6">
+  <img src="7.JPG" alt="Wedding Photo 7">
+  <img src="8.JPG" alt="Wedding Photo 8">
+  <img src="9.JPG" alt="Wedding Photo 9">
+  <img src="10.JPG" alt="Wedding Photo 10">
+</div>
 
 </body>
 </html>
